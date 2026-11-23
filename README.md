@@ -14,6 +14,9 @@ See [Releases](../../releases). The installer is unsigned for now, so Windows Sm
 
 SHA-256 of SplatToGame-Setup-0.2.0.exe: `226daabad88dfdb3aa6360c1c1a57d1be8e6a6e80833d4b7525bca9f24dbdc83`
 
+## Beta terms
+By installing you agree to the beta tester agreement: TESTER_TERMS.md. Questions: steve@enkilabs.co.uk
+
 ## Licences
 Third-party licences: THIRD_PARTY_LICENSES.txt (Blender GPL, ComfyUI GPLv3, PyTorch BSD, Python PSF and others).
 Meta DINOv3 licence: DINOv3_LICENSE.md.
