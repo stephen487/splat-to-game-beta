@@ -1,3 +1,5 @@
+![Splat to Game](logo_full_dark.png)
+
 # Splat to Game: free beta
 
 Turn a Gaussian splat (.ply) of a single object into a game-ready mesh pack: GLB with a baked colour texture,
