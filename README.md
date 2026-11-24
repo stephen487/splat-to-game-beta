@@ -24,3 +24,8 @@ Third-party licences: THIRD_PARTY_LICENSES.txt (Blender GPL, ComfyUI GPLv3, PyTo
 Meta DINOv3 licence: DINOv3_LICENSE.md.
 
 Enki Labs UK Ltd.
+
+
+## AI training
+
+No permission is given to use the contents of this repository to train or fine-tune AI models.
